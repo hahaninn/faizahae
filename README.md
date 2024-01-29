@@ -1,37 +1,45 @@
-🚀 Selamat Datang di Profil Saya!
+🚀 Welcome to My Profile!
 
-Halo, saya [fa'izah hanin]! 👋 Saya adalah seorang pemula dengan semangat tinggi dalam dunia pengembangan perangkat lunak. Saya percaya bahwa setiap baris kode adalah kesempatan untuk belajar dan meningkatkan diri.
+Hello, I'm [fa'izah hanin]! 👋 I'm a passionate beginner in the world of software development. I believe that every line of code is an opportunity to learn and improve.
 
-## 👩‍💻 Tentang Saya
+## 👩‍💻 About Me
 
-- 🌱 Saat ini saya sedang belajar dan eksplorasi dalam dunia pemrograman.
-- 💡 Saya tertarik pada pembelajaran mesin, pengembangan web, dan teknologi terkini.
-- 🚀 Tujuan saya adalah menjadi seorang pengembang perangkat lunak yang berkontribusi pada inovasi teknologi.
+- 🌱 I am currently learning and exploring the world of programming.
+- 💡 I am interested in web development, and the latest technologies.
+- 🚀 My goal is to become a software developer who contributes to technological innovation.
 
-## 💼 Proyek Pribadi
+## 💼 Personal Projects
 
-Saat ini, saya terlibat dalam beberapa proyek kecil yang mencerminkan minat dan pengetahuan saya:
+Currently, I am involved in several small projects that reflect my interests and knowledge:
 
-- 📁 [Nama Proyek 1](link_proyek_1): Deskripsi singkat proyek pertama.
-- 🚗 [Nama Proyek 2](link_proyek_2): Deskripsi singkat proyek kedua.
+- 📁 [Project Name 1](link_project_1): Brief description of the first project.
+- 🚗 [Project Name 2](link_project_2): Short description of the second project.
 
-## 🌐 Jejak Digital
+## 🌐 Digital Footprint
 
 - 📧 Email: [faizahhaninn19@gmail.com]
 
-## 🌈 Inspirasi Saya
+## 🌈 My Inspiration
 
-> "Kode adalah seni untuk memecahkan masalah."
-## 📚 Catatan Pembelajaran
+ I have a passion for continuous learning and collaborating with others to create innovative technology solutions. I believe that technology has great potential to make the world a better place, and I am committed to contributing to positive change.
 
-Saya juga mencatat perjalanan pembelajaran saya di [...](link_blog), di mana saya berbagi pengalaman, pengetahuan, dan proyek-proyek yang saya kerjakan.
+> "Code is the art of problem solving."
 
-## 🤝 Terbuka untuk Kolaborasi
+## 📚 Learning Log
 
-Saya sangat antusias untuk berkolaborasi dengan sesama pengembang dan terbuka terhadap kesempatan berkontribusi pada proyek open source.
+I also log my learning journey on [...](link_blog), where I share my experiences, knowledge, and projects I work on.
 
-## 📝 Lisensi
+## 🤝 Open for Collaboration
 
-Proyek-proyek saya dilisensikan di bawah [...]. Lihat file [LISENSI](LISENSI) untuk detail lebih lanjut.
+Contact Me. If you are interested in collaborating or have any questions, please feel free to contact me via email at faizahhaninn19@gmail.com I am always open to discussing exciting projects and new opportunities. Don't forget to follow me on LinkedIn.
 
-Mari belajar bersama! 🚀✨
+I am excited to collaborate with fellow developers and open to opportunities to contribute to open source projects.
+
+## 📝 Licences
+
+My projects are licensed under [...]. See the [LICENCE](LICENSES) file for more details.
+
+Let's learn together! 🚀✨
+
+Contact Me. If you are interested in collaborating or have any questions, feel free to contact me via email at faizahhaninn19@gmail.com I am always open to discuss interesting projects and new opportunities.
+Don't forget to follow me on LinkedIn!.
